@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Test Trusted Signature</Text>
+    <Description>A Revit C# .NET add-in to test trusted signature of a DLL</Description>
+    <Assembly>TestTrustedSignature.dll</Assembly>
+    <FullClassName>TestTrustedSignature.Command</FullClassName>
+    <ClientId>5d946601-b62e-4080-87d7-2cdec2484124</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
